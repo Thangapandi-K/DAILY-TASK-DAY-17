@@ -1,0 +1,18 @@
+body {
+    background-color: bisque;
+}
+span {
+    font-weight: bold;
+}
+
+.row {
+    margin: 2%;
+}
+.card-img-top {
+    width: 200px;
+    height: 100px;
+    margin-bottom: 20px;
+}
+.col-md-4 {
+    margin-bottom: 20px;
+}
