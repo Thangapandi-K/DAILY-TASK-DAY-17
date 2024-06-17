@@ -10,4 +10,4 @@
 
 - Have coded the above function in [script.js](./js/script.js) and imported inside the body element of [index.html](./index.html)
 
-- [Click Here]() to get the deployed website.
+- [Click Here](https://countries-weather-fetch-api-task.netlify.app/) to get the deployed website.
